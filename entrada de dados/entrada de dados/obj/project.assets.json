@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\raffa\\OneDrive\\Documentos\\GitHub\\csharp\\entrada de dados\\entrada de dados\\entrada de dados.csproj",
-      "projectName": "entrada de dados",
-      "projectPath": "C:\\Users\\raffa\\OneDrive\\Documentos\\GitHub\\csharp\\entrada de dados\\entrada de dados\\entrada de dados.csproj",
+      "projectUniqueName": "C:\\Users\\raffa\\OneDrive\\Documentos\\GitHub\\csharp\\entrada de dados\\entrada de dados\\saida de dados.csproj",
+      "projectName": "saida de dados",
+      "projectPath": "C:\\Users\\raffa\\OneDrive\\Documentos\\GitHub\\csharp\\entrada de dados\\entrada de dados\\saida de dados.csproj",
       "packagesPath": "C:\\Users\\raffa\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\raffa\\OneDrive\\Documentos\\GitHub\\csharp\\entrada de dados\\entrada de dados\\obj\\",
       "projectStyle": "PackageReference",
