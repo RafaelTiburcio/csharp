@@ -1,0 +1,15 @@
+C:\Users\raffa\OneDrive\Documentos\GitHub\csharp\entrada de dados 2\entrada de dados 2\bin\Debug\net6.0\entrada de dados 2.exe
+C:\Users\raffa\OneDrive\Documentos\GitHub\csharp\entrada de dados 2\entrada de dados 2\bin\Debug\net6.0\entrada de dados 2.deps.json
+C:\Users\raffa\OneDrive\Documentos\GitHub\csharp\entrada de dados 2\entrada de dados 2\bin\Debug\net6.0\entrada de dados 2.runtimeconfig.json
+C:\Users\raffa\OneDrive\Documentos\GitHub\csharp\entrada de dados 2\entrada de dados 2\bin\Debug\net6.0\entrada de dados 2.dll
+C:\Users\raffa\OneDrive\Documentos\GitHub\csharp\entrada de dados 2\entrada de dados 2\bin\Debug\net6.0\entrada de dados 2.pdb
+C:\Users\raffa\OneDrive\Documentos\GitHub\csharp\entrada de dados 2\entrada de dados 2\obj\Debug\net6.0\entrada de dados 2.csproj.AssemblyReference.cache
+C:\Users\raffa\OneDrive\Documentos\GitHub\csharp\entrada de dados 2\entrada de dados 2\obj\Debug\net6.0\entrada de dados 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raffa\OneDrive\Documentos\GitHub\csharp\entrada de dados 2\entrada de dados 2\obj\Debug\net6.0\entrada de dados 2.AssemblyInfoInputs.cache
+C:\Users\raffa\OneDrive\Documentos\GitHub\csharp\entrada de dados 2\entrada de dados 2\obj\Debug\net6.0\entrada de dados 2.AssemblyInfo.cs
+C:\Users\raffa\OneDrive\Documentos\GitHub\csharp\entrada de dados 2\entrada de dados 2\obj\Debug\net6.0\entrada de dados 2.csproj.CoreCompileInputs.cache
+C:\Users\raffa\OneDrive\Documentos\GitHub\csharp\entrada de dados 2\entrada de dados 2\obj\Debug\net6.0\entrada de dados 2.dll
+C:\Users\raffa\OneDrive\Documentos\GitHub\csharp\entrada de dados 2\entrada de dados 2\obj\Debug\net6.0\refint\entrada de dados 2.dll
+C:\Users\raffa\OneDrive\Documentos\GitHub\csharp\entrada de dados 2\entrada de dados 2\obj\Debug\net6.0\entrada de dados 2.pdb
+C:\Users\raffa\OneDrive\Documentos\GitHub\csharp\entrada de dados 2\entrada de dados 2\obj\Debug\net6.0\entrada de dados 2.genruntimeconfig.cache
+C:\Users\raffa\OneDrive\Documentos\GitHub\csharp\entrada de dados 2\entrada de dados 2\obj\Debug\net6.0\ref\entrada de dados 2.dll
