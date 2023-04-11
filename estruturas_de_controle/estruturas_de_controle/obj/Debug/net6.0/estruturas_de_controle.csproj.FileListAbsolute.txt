@@ -1,0 +1,15 @@
+C:\Users\raffa\OneDrive\Documentos\GitHub\csharp\estruturas_de_controle\estruturas_de_controle\bin\Debug\net6.0\estruturas_de_controle.exe
+C:\Users\raffa\OneDrive\Documentos\GitHub\csharp\estruturas_de_controle\estruturas_de_controle\bin\Debug\net6.0\estruturas_de_controle.deps.json
+C:\Users\raffa\OneDrive\Documentos\GitHub\csharp\estruturas_de_controle\estruturas_de_controle\bin\Debug\net6.0\estruturas_de_controle.runtimeconfig.json
+C:\Users\raffa\OneDrive\Documentos\GitHub\csharp\estruturas_de_controle\estruturas_de_controle\bin\Debug\net6.0\estruturas_de_controle.dll
+C:\Users\raffa\OneDrive\Documentos\GitHub\csharp\estruturas_de_controle\estruturas_de_controle\bin\Debug\net6.0\estruturas_de_controle.pdb
+C:\Users\raffa\OneDrive\Documentos\GitHub\csharp\estruturas_de_controle\estruturas_de_controle\obj\Debug\net6.0\estruturas_de_controle.csproj.AssemblyReference.cache
+C:\Users\raffa\OneDrive\Documentos\GitHub\csharp\estruturas_de_controle\estruturas_de_controle\obj\Debug\net6.0\estruturas_de_controle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raffa\OneDrive\Documentos\GitHub\csharp\estruturas_de_controle\estruturas_de_controle\obj\Debug\net6.0\estruturas_de_controle.AssemblyInfoInputs.cache
+C:\Users\raffa\OneDrive\Documentos\GitHub\csharp\estruturas_de_controle\estruturas_de_controle\obj\Debug\net6.0\estruturas_de_controle.AssemblyInfo.cs
+C:\Users\raffa\OneDrive\Documentos\GitHub\csharp\estruturas_de_controle\estruturas_de_controle\obj\Debug\net6.0\estruturas_de_controle.csproj.CoreCompileInputs.cache
+C:\Users\raffa\OneDrive\Documentos\GitHub\csharp\estruturas_de_controle\estruturas_de_controle\obj\Debug\net6.0\estruturas_de_controle.dll
+C:\Users\raffa\OneDrive\Documentos\GitHub\csharp\estruturas_de_controle\estruturas_de_controle\obj\Debug\net6.0\refint\estruturas_de_controle.dll
+C:\Users\raffa\OneDrive\Documentos\GitHub\csharp\estruturas_de_controle\estruturas_de_controle\obj\Debug\net6.0\estruturas_de_controle.pdb
+C:\Users\raffa\OneDrive\Documentos\GitHub\csharp\estruturas_de_controle\estruturas_de_controle\obj\Debug\net6.0\estruturas_de_controle.genruntimeconfig.cache
+C:\Users\raffa\OneDrive\Documentos\GitHub\csharp\estruturas_de_controle\estruturas_de_controle\obj\Debug\net6.0\ref\estruturas_de_controle.dll
