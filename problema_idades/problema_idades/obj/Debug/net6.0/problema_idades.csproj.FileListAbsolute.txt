@@ -1,0 +1,15 @@
+C:\Users\raffa\OneDrive\Documentos\GitHub\csharp\problema_idades\problema_idades\bin\Debug\net6.0\problema_idades.exe
+C:\Users\raffa\OneDrive\Documentos\GitHub\csharp\problema_idades\problema_idades\bin\Debug\net6.0\problema_idades.deps.json
+C:\Users\raffa\OneDrive\Documentos\GitHub\csharp\problema_idades\problema_idades\bin\Debug\net6.0\problema_idades.runtimeconfig.json
+C:\Users\raffa\OneDrive\Documentos\GitHub\csharp\problema_idades\problema_idades\bin\Debug\net6.0\problema_idades.dll
+C:\Users\raffa\OneDrive\Documentos\GitHub\csharp\problema_idades\problema_idades\bin\Debug\net6.0\problema_idades.pdb
+C:\Users\raffa\OneDrive\Documentos\GitHub\csharp\problema_idades\problema_idades\obj\Debug\net6.0\problema_idades.csproj.AssemblyReference.cache
+C:\Users\raffa\OneDrive\Documentos\GitHub\csharp\problema_idades\problema_idades\obj\Debug\net6.0\problema_idades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raffa\OneDrive\Documentos\GitHub\csharp\problema_idades\problema_idades\obj\Debug\net6.0\problema_idades.AssemblyInfoInputs.cache
+C:\Users\raffa\OneDrive\Documentos\GitHub\csharp\problema_idades\problema_idades\obj\Debug\net6.0\problema_idades.AssemblyInfo.cs
+C:\Users\raffa\OneDrive\Documentos\GitHub\csharp\problema_idades\problema_idades\obj\Debug\net6.0\problema_idades.csproj.CoreCompileInputs.cache
+C:\Users\raffa\OneDrive\Documentos\GitHub\csharp\problema_idades\problema_idades\obj\Debug\net6.0\problema_idades.dll
+C:\Users\raffa\OneDrive\Documentos\GitHub\csharp\problema_idades\problema_idades\obj\Debug\net6.0\refint\problema_idades.dll
+C:\Users\raffa\OneDrive\Documentos\GitHub\csharp\problema_idades\problema_idades\obj\Debug\net6.0\problema_idades.pdb
+C:\Users\raffa\OneDrive\Documentos\GitHub\csharp\problema_idades\problema_idades\obj\Debug\net6.0\problema_idades.genruntimeconfig.cache
+C:\Users\raffa\OneDrive\Documentos\GitHub\csharp\problema_idades\problema_idades\obj\Debug\net6.0\ref\problema_idades.dll

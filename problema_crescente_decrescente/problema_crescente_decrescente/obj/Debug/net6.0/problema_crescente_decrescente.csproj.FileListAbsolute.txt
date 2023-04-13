@@ -1,0 +1,15 @@
+C:\Users\raffa\OneDrive\Documentos\GitHub\csharp\problema_crescente_decrescente\problema_crescente_decrescente\bin\Debug\net6.0\problema_crescente_decrescente.exe
+C:\Users\raffa\OneDrive\Documentos\GitHub\csharp\problema_crescente_decrescente\problema_crescente_decrescente\bin\Debug\net6.0\problema_crescente_decrescente.deps.json
+C:\Users\raffa\OneDrive\Documentos\GitHub\csharp\problema_crescente_decrescente\problema_crescente_decrescente\bin\Debug\net6.0\problema_crescente_decrescente.runtimeconfig.json
+C:\Users\raffa\OneDrive\Documentos\GitHub\csharp\problema_crescente_decrescente\problema_crescente_decrescente\bin\Debug\net6.0\problema_crescente_decrescente.dll
+C:\Users\raffa\OneDrive\Documentos\GitHub\csharp\problema_crescente_decrescente\problema_crescente_decrescente\bin\Debug\net6.0\problema_crescente_decrescente.pdb
+C:\Users\raffa\OneDrive\Documentos\GitHub\csharp\problema_crescente_decrescente\problema_crescente_decrescente\obj\Debug\net6.0\problema_crescente_decrescente.csproj.AssemblyReference.cache
+C:\Users\raffa\OneDrive\Documentos\GitHub\csharp\problema_crescente_decrescente\problema_crescente_decrescente\obj\Debug\net6.0\problema_crescente_decrescente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raffa\OneDrive\Documentos\GitHub\csharp\problema_crescente_decrescente\problema_crescente_decrescente\obj\Debug\net6.0\problema_crescente_decrescente.AssemblyInfoInputs.cache
+C:\Users\raffa\OneDrive\Documentos\GitHub\csharp\problema_crescente_decrescente\problema_crescente_decrescente\obj\Debug\net6.0\problema_crescente_decrescente.AssemblyInfo.cs
+C:\Users\raffa\OneDrive\Documentos\GitHub\csharp\problema_crescente_decrescente\problema_crescente_decrescente\obj\Debug\net6.0\problema_crescente_decrescente.csproj.CoreCompileInputs.cache
+C:\Users\raffa\OneDrive\Documentos\GitHub\csharp\problema_crescente_decrescente\problema_crescente_decrescente\obj\Debug\net6.0\problema_crescente_decrescente.dll
+C:\Users\raffa\OneDrive\Documentos\GitHub\csharp\problema_crescente_decrescente\problema_crescente_decrescente\obj\Debug\net6.0\refint\problema_crescente_decrescente.dll
+C:\Users\raffa\OneDrive\Documentos\GitHub\csharp\problema_crescente_decrescente\problema_crescente_decrescente\obj\Debug\net6.0\problema_crescente_decrescente.pdb
+C:\Users\raffa\OneDrive\Documentos\GitHub\csharp\problema_crescente_decrescente\problema_crescente_decrescente\obj\Debug\net6.0\problema_crescente_decrescente.genruntimeconfig.cache
+C:\Users\raffa\OneDrive\Documentos\GitHub\csharp\problema_crescente_decrescente\problema_crescente_decrescente\obj\Debug\net6.0\ref\problema_crescente_decrescente.dll
